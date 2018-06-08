@@ -4,7 +4,7 @@ Pipline to track CDC outbreaks
 Dependensies
 ------------
 
-cheBBACA
-Prokka
-MetaLiST
-SPAde
+- cheBBACA
+- Prokka
+- MetaLiST
+- SPAde
